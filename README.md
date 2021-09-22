@@ -1,8 +1,8 @@
 # Fire-Forest-hazard-clustering
 
-The last summer the world was shocked by the incredibly massive wildfires spreading all over the world. Canada, Greece and Syberia are just some of the countries who have suffered with enourmus area wiped out by the fire. Every year wildfires spread with increasing power and frequency.
+The last summer the world was shocked by the incredibly massive wildfires spreading all over the world. Canada, Greece and Syberia are just some of the countries which have suffered with enourmus area wiped out by the fire. Every year wildfires spread with increasing power and frequency.
 
-The main aim of this project is to study the evolution of the wildfire hazard in Europe trough machine learning clustering techniques. We will see that in the last 5 years the climate and geological condition of Europe are harsher than ever.
+The main aim of this project is to study the evolution of the wildfire hazard in Europe trought machine learning clustering techniques. We will see that in the last 5 years the climate and geological condition of Europe are harsher than ever.
 
 The repository is divided into by three parts:
 
